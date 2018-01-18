@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=mendedlink_private
+pkg_origin=mendedlink-habitat-new-user
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
